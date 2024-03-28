@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":2,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":3,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":4,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":5,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":6,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"Sport",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":7,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"scifi",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":8,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":9,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":10,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    },
+    {
+        "id":11,
+        "name":"this book is free for you guys read it forst !",
+        "price" : 0,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1711657128~exp=1711660728~hmac=d255d58b61bdc925c6dc74e557f097b59429e74204e4cd51d23d9be69f1351df&w=1060"
+        
+    }
+]
